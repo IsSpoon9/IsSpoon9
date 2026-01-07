@@ -1,5 +1,10 @@
-## Hi there 👋
-Finish later
+Currently, I am a 3rd Year Bachelor of Engineering (Electrical) Student. I am both a Canadian (Born) and United States citizen. My personal project have progressed from small cardboard projects to variable DC voltage power supply's and microcontroller-based weather station. I have always loved designing and building projects so making a career out of it, doesn't seem like work.
+
+Check out my most recent custom projects which are a end to end design and build of a custom 3D Printer, and C++/CMake/Python AutoCoverLetterFiller program. These projects are documented and posted on my LinkedIn. 
+
+I am looking to gain experience in electrical engineering field through a Co-op position. I bring with years of customer service, logistics and documentation experience in the retail industry.
+ 
+I look forward to discussing how my skills can contribute to your team. I invite you to contact me via LinkedIn or by my Email, ethanhunter090@gmail.com.
 <!--
 **IsSpoon9/IsSpoon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
